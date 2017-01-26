@@ -41,6 +41,13 @@ nav a {
 	display: block;
 }
 
+nav a:hover {
+	color: #74bcc3;
+	background: white;
+	transition-property: color, background;
+	transition-duration: 2s;
+}
+
 main {
 	/*Add a margin to the main content so it isn't hidden behind the sidebar.*/
 	margin-left: 300px;
