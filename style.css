@@ -45,7 +45,7 @@ nav a:hover {
 	color: #74bcc3;
 	background: white;
 	transition-property: color, background;
-	transition-duration: 2s;
+	transition-duration: .3s;
 }
 
 main {
